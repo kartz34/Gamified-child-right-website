@@ -1,0 +1,113 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button { /*NOT AN EFFICIENT SOLUTION - FEEL FREE TO CHANGE THIS */
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .thewholepage{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  
+  
+  .header {
+    text-align: center; /* align text as per requirements */
+    display: flex;
+    justify-content: space-between;
+  
+    width: 100vw; /* match the width of the screen */
+    height: 40px; /* adjust height as required */
+  
+    position: absolute; /* positioning stuff */
+    left: 0; /* fix to the left */ 
+    top: 0; /* fix to the top */
+  
+    padding-top: 5px;
+    padding-left: 10px;
+  
+    border-bottom: 2px solid black; /* border settings */
+  
+    background-color: white;
+  
+  }
+  
+  .languages { /* for the languages div */
+    display: flex; 
+    gap: 5px;
+  }
+  
+  
+  .integrationswithorgs { /* all settigs are self explanatory, not adding additional comments */
+    background-color: white; 
+    width: 100%;
+    height: 90px;
+    border-bottom: 2px solid black; 
+    padding-top: 40px;
+    padding-left: 10px;
+  }
+  
+  .slider { /* settings self explanatory */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    background-color: white;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black; 
+  }
+  
+  .more-info {
+    position: relative;
+    background-color: white;
+    width: 1525px;
+    height: max-content;
+    border-bottom: 2px solid black;
+  }
+  
+  .even-more-info {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    width: 1000px;
+    z-index: 9; /* CAREFUL WITH THIS PROPERTY */
+    color: black;
+    border: 1px solid black;
+  }
+  
+  .reach-out {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 10px;
+    width: 100px;
+    z-index: 9; /* CAREFUL WITH THIS PROPERTY */
+    color: black;
+    border: 1px solid black;
+  }
+  
+  .images {
+    padding-bottom: 20px;
+    margin-top: 50px;
+    /* margin-bottom: 20px; */
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    border-bottom: 2px solid black;
+  }
+  
+  .footer {
+    text-align: center;
+    color: black;
+    background-color: white;
+    height: max-content;
+  }
