@@ -24,7 +24,7 @@ const page = () => {
         </div>
     </div>
     <div className='absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2'>
-    <iframe width="887" height="499" src="https://www.youtube.com/embed/Fp7YO706KOQ" title="animation 1 final" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="887" height="499" src="https://www.youtube.com/embed/x79AP3dpMLY" title="animation 1 final" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     </>
   )
