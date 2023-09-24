@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Gamified Child Rights Education Platform is an innovative initiative aimed at empowering children in India by educating them about their rights and encouraging them to stand up for themselves and others. This interactive and engaging platform leverages gamification and technology to make learning about child rights not only informative but also fun.
+The Gamified Child Rights Education Platform is an innovative initiative aimed at empowering children in India by educating them about their rights and encouraging them to stand up for themselves and others. This interactive and engaging platform leverages gamification and technology to make learning about child rights not only informative, but also fun.
 
 ## Project Report: 
 https://1drv.ms/w/s!AnR61n5mUJ2lgX8r7MJjYe4hMEMi?e=GLpzyH
